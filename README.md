@@ -10,42 +10,34 @@ I am a Data Scientist currently pursuing my Master's degree at **Boston Universi
 
 ### 🛠️ My Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Programming Languages</strong><br><br>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia">
-      </p>
-      <br>
-      <strong>Databases & Tools</strong><br><br>
-      <p>
-        <img src="https.img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https.img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-        <img src="https.img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-        <img src="https.img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https.img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <strong>ML/Data Science Libraries</strong><br><br>
-      <p>
-        <img src="https.img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-        <img src="https.img.shields.io/badge/LightGBM-00599C?style=for-the-badge" alt="LightGBM">
-        <img src="https.img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-        <img src="https.img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-        <img src="https.img.shields.io/badge/SBERT-3498DB?style=for-the-badge" alt="SBERT">
-        <img src="https.img.shields.io/badge/Faiss-4682B4?style=for-the-badge" alt="Faiss">
-        <img src="https.img.shields.io/badge/Statsmodels-150458?style=for-the-badge" alt="Statsmodels">
-      </p>
-    </td>
-  </tr>
-</table>
+**Programming Languages:**
+<p>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"></a>
+    <a href="#"><img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white"></a>
+</p>
+
+**ML/Data Science Libraries:**
+<p>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-00599C?style=flat&logo=lightgbm&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="SBERT" src="https://img.shields.io/badge/SBERT-3498DB?style=flat"></a>
+    <a href="#"><img alt="Faiss" src="https://img.shields.io/badge/Faiss-4682B4?style=flat"></a>
+</p>
+
+**Databases & Tools:**
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
+</p>
 
 ---
 
