@@ -89,15 +89,6 @@ I'm a Data Science Master's student at **Boston University** (GPA: 4.0) with a b
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 - 📧 Email: michaellymtt@gmail.com
